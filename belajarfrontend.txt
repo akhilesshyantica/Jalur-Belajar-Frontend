@@ -3,6 +3,7 @@ Jalur Belajar Frontend Web saya diambil dari :
 2. CODEPOLITAN - Kelas FullStack
 3. Coding Studio
 4. My Skill
+5. Codewars
 
 Apa yang harus saya lakukan?
 - Konsisten
