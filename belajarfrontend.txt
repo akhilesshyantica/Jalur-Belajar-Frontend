@@ -1,0 +1,5 @@
+Jalur Belajar Frontend Web saya diambil dari :
+1. Web Programming UNPAS
+2. CODEPOLITAN - Kelas FullStack
+3. Coding Studio
+4. My Skill
