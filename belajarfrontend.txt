@@ -3,10 +3,13 @@ Jalur Belajar Frontend Web saya diambil dari :
 2. CODEPOLITAN - Kelas FullStack
 3. Coding Studio
 4. My Skill
+  Menyelesaikan semua materi online dan membuat project
 5. Codewars
+6. RevoU
 
 Apa yang harus saya lakukan?
 - Konsisten
 - Disiplin
 - Matikan smartphone
 - Fokus 
+- Begadang bila perlu
