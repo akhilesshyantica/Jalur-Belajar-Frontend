@@ -5,11 +5,12 @@ Jalur Belajar Frontend Web saya diambil dari :
 4. My Skill
   Menyelesaikan semua materi online dan membuat project
 5. Codewars
-6. RevoU
+6. Dicoding
+
 
 Apa yang harus saya lakukan?
 - Konsisten
 - Disiplin
-- Matikan smartphone
+- Power Nap
 - Fokus 
 - Begadang bila perlu
